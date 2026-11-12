@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>jonesjj morning briefing</title>
+    <link>https://jonesjj.github.io/mpf-0f08296e50b0/</link>
+    <description>A private daily read-aloud of my newsletters.</description>
+    <language>en-us</language>
+    <itunes:block>yes</itunes:block>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>jonesjj morning briefing</itunes:author>
+    <item>
+      <title>jonesjj morning briefing — Thu Nov 12</title>
+      <description>Chapters: NYT The Headlines: A Second Affair Revelation Rocks Nvidia, and a Democrat Wins Mississipp · NPR News Now: 6am ET, November 12 | The latest headlines from NPR · Heather Cox Richardson: November 11, 2026 · Garrison Keillor: The Column: 11.09.26 · The Rundown AI: ChatGPT is now open for business · The Rundown AI: OPENAI · The Rundown AI: ANTHROPIC · The Rundown AI: AI TRAINING · The Rundown AI: AI RESEARCH · The Rundown AI: COMMUNITY AI WORKFLOW OF THE DAY · The Rundown AI: Jensen Huang’s Nvidia reign may be ending · The Rundown AI: NVIDIA · The Rundown AI: NATE’S NOTEBOOK · The Rundown AI: AI TRAINING · The Rundown AI: GOOGLE DEEPMIND · The Rundown AI: COMMUNITY AI WORKFLOW OF THE DAY · Axios Richmond: 1 big thing: The next development hotspots · Axios Richmond: 2. New rules for young drivers · Axios Richmond: 3. The Current: RPS data is on the dark web · Axios Richmond: 4. Marathoners and bathrobe bar crawls · Axios Richmond: 5. New thrift giant opens in Midlo</description>
+      <guid isPermaLink="false">briefing-2026-11-12-0702.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 12:02:32 +0000</pubDate>
+      <enclosure url="https://jonesjj.github.io/mpf-0f08296e50b0/episodes/briefing-2026-11-12-0702.mp3" length="27762402" type="audio/mpeg"/>
+      <itunes:duration>3466</itunes:duration>
+      <podcast:chapters url="https://jonesjj.github.io/mpf-0f08296e50b0/episodes/briefing-2026-11-12-0702.chapters.json" type="application/json+chapters"/>
+    </item>
+  </channel>
+</rss>
