@@ -1,0 +1,65 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 13.04,
+   "title": "NPR News Now: 6am ET, November 21 | The latest headlines from NPR"
+  },
+  {
+   "startTime": 300.59,
+   "title": "Heather Cox Richardson: November 20, 2026"
+  },
+  {
+   "startTime": 856.08,
+   "title": "The Rundown Tech: GTA 6 rakes in $2.4B overnight"
+  },
+  {
+   "startTime": 902.14,
+   "title": "The Rundown Tech: GAMING"
+  },
+  {
+   "startTime": 989.83,
+   "title": "The Rundown Tech: SPACE"
+  },
+  {
+   "startTime": 1061.25,
+   "title": "The Rundown Tech: WEIRD SCIENCE"
+  },
+  {
+   "startTime": 1149.73,
+   "title": "The Rundown Tech: UBER"
+  },
+  {
+   "startTime": 1221.83,
+   "title": "The Rundown Tech: QUICK HITS"
+  },
+  {
+   "startTime": 1320.46,
+   "title": "Axios Richmond: 1 big thing: One widow, 100 emails and Elvis"
+  },
+  {
+   "startTime": 1503.35,
+   "title": "Axios Richmond: 2. Christmas cocktails await"
+  },
+  {
+   "startTime": 1598.09,
+   "title": "Axios Richmond: 3. The Current: Fake Kamras email hits inboxes"
+  },
+  {
+   "startTime": 1671.26,
+   "title": "Axios Richmond: 4. Holiday traffic and turkey troubles"
+  },
+  {
+   "startTime": 1743.57,
+   "title": "Axios Richmond: 5. The great Christmas decor debate"
+  },
+  {
+   "startTime": 1782.91,
+   "title": "Wrap-up"
+  }
+ ]
+}

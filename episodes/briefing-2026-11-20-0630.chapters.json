@@ -1,0 +1,57 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 15.36,
+   "title": "NYT The Headlines: Fear and Humiliation at Nvidia, and Why Google Bought Spirit Airlines D"
+  },
+  {
+   "startTime": 941.17,
+   "title": "NPR News Now: 6am ET, November 20 | The latest headlines from NPR"
+  },
+  {
+   "startTime": 1228.72,
+   "title": "Heather Cox Richardson: November 19, 2026"
+  },
+  {
+   "startTime": 1979.56,
+   "title": "Dan Rather: Trump cozies up while America goes dark"
+  },
+  {
+   "startTime": 2506.63,
+   "title": "Garrison Keillor: The Column: 11.20.26"
+  },
+  {
+   "startTime": 2750.33,
+   "title": "The Rundown AI: Anthropic beats OpenAI to Wall Street"
+  },
+  {
+   "startTime": 2801.53,
+   "title": "The Rundown AI: ANTHROPIC"
+  },
+  {
+   "startTime": 2901.05,
+   "title": "The Rundown AI: ROWAN\u2019S CORNER"
+  },
+  {
+   "startTime": 2985.72,
+   "title": "The Rundown AI: AI TRAINING"
+  },
+  {
+   "startTime": 3059.85,
+   "title": "The Rundown AI: OPENAI"
+  },
+  {
+   "startTime": 3142.56,
+   "title": "The Rundown AI: COMMUNITY AI WORKFLOW OF THE DAY"
+  },
+  {
+   "startTime": 3331.63,
+   "title": "Wrap-up"
+  }
+ ]
+}

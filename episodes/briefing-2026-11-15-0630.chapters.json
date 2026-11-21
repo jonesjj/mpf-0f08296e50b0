@@ -1,0 +1,93 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 14.79,
+   "title": "NPR News Now: 6am ET, November 15 | The latest headlines from NPR"
+  },
+  {
+   "startTime": 302.34,
+   "title": "Dan Rather: Historic change in Mississippi"
+  },
+  {
+   "startTime": 843.31,
+   "title": "Garrison Keillor: The Column: 11.13.26"
+  },
+  {
+   "startTime": 1108.11,
+   "title": "The Rundown AI: Nvidia enters life without Jensen Huang"
+  },
+  {
+   "startTime": 1156.68,
+   "title": "The Rundown AI: NVIDIA"
+  },
+  {
+   "startTime": 1242.62,
+   "title": "The Rundown AI: ROWAN\u2019S CORNER"
+  },
+  {
+   "startTime": 1322.37,
+   "title": "The Rundown AI: AI TRAINING"
+  },
+  {
+   "startTime": 1400.24,
+   "title": "The Rundown AI: GOOGLE"
+  },
+  {
+   "startTime": 1485.95,
+   "title": "The Rundown AI: COMMUNITY AI WORKFLOW OF THE DAY"
+  },
+  {
+   "startTime": 1666.48,
+   "title": "The Rundown Tech: Microsoft\u2019s Outlook outage hits day two"
+  },
+  {
+   "startTime": 1715.25,
+   "title": "The Rundown Tech: MICROSOFT"
+  },
+  {
+   "startTime": 1796.21,
+   "title": "The Rundown Tech: OURA"
+  },
+  {
+   "startTime": 1875.96,
+   "title": "The Rundown Tech: BIOTECH"
+  },
+  {
+   "startTime": 1956.57,
+   "title": "The Rundown Tech: DATA CENTERS"
+  },
+  {
+   "startTime": 2041.76,
+   "title": "The Rundown Tech: QUICK HITS"
+  },
+  {
+   "startTime": 2135.35,
+   "title": "Axios Richmond: 1 big thing: Paying to crash weddings"
+  },
+  {
+   "startTime": 2276.41,
+   "title": "Axios Richmond: 2. Ex-RPS students at risk in dark web leak"
+  },
+  {
+   "startTime": 2371.63,
+   "title": "Axios Richmond: 3. The Current: Goochland's data center rules draw heat"
+  },
+  {
+   "startTime": 2438.22,
+   "title": "Axios Richmond: 4. Marathon traffic survival guide"
+  },
+  {
+   "startTime": 2513.32,
+   "title": "Axios Richmond: 5. Two sweet new arrivals"
+  },
+  {
+   "startTime": 2617.68,
+   "title": "Wrap-up"
+  }
+ ]
+}
