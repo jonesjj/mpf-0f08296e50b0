@@ -1,0 +1,21 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 10.63,
+   "title": "NPR News Now: 6am ET, November 22 | The latest headlines from NPR"
+  },
+  {
+   "startTime": 298.19,
+   "title": "Heather Cox Richardson: November 21, 2026"
+  },
+  {
+   "startTime": 687.49,
+   "title": "Wrap-up"
+  }
+ ]
+}

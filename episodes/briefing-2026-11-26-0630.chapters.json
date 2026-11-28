@@ -1,0 +1,49 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 12.23,
+   "title": "NPR News Now: 6am ET, November 26 | The latest headlines from NPR"
+  },
+  {
+   "startTime": 299.78,
+   "title": "Heather Cox Richardson: November 25, 2026"
+  },
+  {
+   "startTime": 686.92,
+   "title": "Dan Rather: Trump slashes food assistance at the worst possible time"
+  },
+  {
+   "startTime": 1028.73,
+   "title": "The Rundown AI: Your AI cheat sheet for Thanksgiving dinner"
+  },
+  {
+   "startTime": 1074.73,
+   "title": "The Rundown AI: AI & THE HOLIDAYS"
+  },
+  {
+   "startTime": 1205.24,
+   "title": "The Rundown AI: NATE\u2019S NOTEBOOK"
+  },
+  {
+   "startTime": 1307.19,
+   "title": "The Rundown AI: AI TRAINING"
+  },
+  {
+   "startTime": 1384.41,
+   "title": "The Rundown AI: DARIO AMODEI"
+  },
+  {
+   "startTime": 1460.85,
+   "title": "The Rundown AI: COMMUNITY AI WORKFLOW OF THE DAY"
+  },
+  {
+   "startTime": 1610.45,
+   "title": "Wrap-up"
+  }
+ ]
+}

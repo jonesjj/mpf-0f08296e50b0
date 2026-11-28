@@ -1,0 +1,53 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0.0,
+   "title": "Intro"
+  },
+  {
+   "startTime": 12.43,
+   "title": "NPR News Now: 6am ET, November 28 | The latest headlines from NPR"
+  },
+  {
+   "startTime": 299.99,
+   "title": "Heather Cox Richardson: November 27, 2026"
+  },
+  {
+   "startTime": 841.48,
+   "title": "Garrison Keillor: The Column: 11.27.26"
+  },
+  {
+   "startTime": 1076.4,
+   "title": "Garrison Keillor: Serenity at 70, Gaiety at 80: Why We Should Keep Getting Older"
+  },
+  {
+   "startTime": 1177.1,
+   "title": "Garrison Keillor: From the Archives: The News from Lake Wobegon"
+  },
+  {
+   "startTime": 1213.99,
+   "title": "The Rundown Tech: Neuralink's brain chip enters the big leagues"
+  },
+  {
+   "startTime": 1259.18,
+   "title": "The Rundown Tech: NEURALINK"
+  },
+  {
+   "startTime": 1316.68,
+   "title": "The Rundown Tech: AMAZON"
+  },
+  {
+   "startTime": 1454.47,
+   "title": "The Rundown Tech: SPACEX"
+  },
+  {
+   "startTime": 1518.03,
+   "title": "The Rundown Tech: QUICK HITS"
+  },
+  {
+   "startTime": 1609.8,
+   "title": "Wrap-up"
+  }
+ ]
+}
